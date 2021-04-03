@@ -1,0 +1,31 @@
+.item-details {
+    width: 38rem;
+    height: 30rem;
+    display: flex;
+    padding: 1rem;
+    margin-left: 3rem;
+}
+
+.item-details .item-image {
+    margin: .5rem;
+    max-height: 20rem;
+    max-width: 25rem;
+    border-radius: .3rem;
+}
+
+
+.item-details .list-group {
+    margin-left: 1rem;
+    font-size: 1.4rem;
+    width: 15rem;
+    margin-bottom: 4rem;
+}
+
+.item-details li {
+   height: 4rem;
+}
+
+.item-details h1 {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}

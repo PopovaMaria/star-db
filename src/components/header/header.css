@@ -1,0 +1,35 @@
+.header {
+    padding-left: 3rem;
+    margin-top: 1rem;
+    align-items: center;
+}
+
+.header h1 {
+    min-width: 12rem;
+    padding-top: .2rem;
+}
+
+.header ul li {
+    list-style: none;
+    display: inline;
+    align-items: center;
+    margin-top: 1rem;
+    border-radius: .3rem;
+    font-size: 1.3rem;
+    color: #2f8c79;
+}
+
+.header ul li:hover {
+    background-color: #444;
+}
+
+.header ul {
+    display: flex;
+    align-items: flex-end;
+    width: 50rem;
+    justify-content: space-around;
+}
+
+.header li {
+    padding: .8rem 1.3rem .8rem 1.3rem;
+}

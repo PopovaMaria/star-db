@@ -1,0 +1,15 @@
+.item-list {
+    display: flex;
+    margin-left: 0;
+    font-size: 1.4rem;
+    width: 220%;
+}
+
+.item-list li {
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+}
+
+.item-list li:hover {
+    background-color: #444;
+}
